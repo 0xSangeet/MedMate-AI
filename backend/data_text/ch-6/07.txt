@@ -1,0 +1,40 @@
+Look first for dehydration (Dehydration, Chapter 1), especially due to inadequate fluid intake or excessive fluid losses
+(high fever, vomiting, diarrhoea). Treat dehydration if present. Be aware of the risk of fluid overload and acute
+pulmonary oedema. Monitor for the return of urine output.
+Acute renal failure (ARF) is found almost exclusively in adults and is more common in Asia than Africa. Insert a urinary
+catheter, measure output. Restrict fluids to 1 litre/day (30 ml/kg/day in children), plus additional volume equal to urine
+output. Renal dialysis is often necessary.
+Antimalarial treatment in pregnant women
+Uncomplicated P. vivax, P. ovale, P. malariae, P. knowlesi malaria
+As other patients.
+Primaquine should not be given in pregnancy.
+Uncomplicated falciparum malaria
+All ACT included in the table Treatment of uncomplicated falciparum malaria can be used in all trimesters.
+If ACTs are not available, quinine PO (for dosing, see Treatment of uncomplicated falciparum malaria)
+combined with clindamycin PO if possible (10 mg/kg 2 times daily for 7 days) may be an alternative to ACT.
+Primaquine should not be given in pregnancy.
+Severe malaria
+Artesunate, or if unavailable artemether, is recommended in all trimesters.
+Quinine IV is not recommended as standard treatment, however it still remains in some national protocols.
+Prevention
+For pregnant women in areas with high risk of infection with P. falciparum, refer to the guide Essential obstetric and
+newborn care, MSF.
+In areas with seasonal malaria transmission (in particular across the Sahel sub-region), seasonal malaria
+chemoprevention in children < 5 years reduces mortality: administer amodiaquine + SP at monthly intervals for 4
+months during the transmission period [4] .
+In malaria endemic areas and in epidemic-prone contexts, all in-patient facilities (including HIV treatment centres
+and feeding centres), should be furnished with long-lasting insecticidal nets (LLINs). For more information, refer to
+the guide Public health engineering, MSF.
+See specialised literature for information regarding anti-vector measures and prevention in travellers.
+Footnotes
+(a) Most rapid tests detect the following antigens alone or in combination: HRP2 protein specific to P. falciparum; an enzyme
+(Pf pLDH) specific to P. falciparum; an enzyme (pan pLDH) common to all 4 plasmodium species. HRP2 may continue to be
+detectable for 6 weeks or more after parasite clearance; pLDH remains detectable for several days (up to 2 weeks) after
+parasite clearance.
+Use pan pLDH tests as first choice in hyper and holo-endemic areas, as well as in areas of intense seasonal transmission and
+during outbreaks or complex emergencies. In other contexts, HRP2 tests (P. falciparum > 95%) or HRP2 + pLDH combination
+tests (P. falciparum < 95%) are preferred.
+(b) If the patient vomits within 30 minutes after administration: re-administer the full dose. If the patient vomits between 30
+minutes and 1 hour after administration, re-administer half of the dose. If severe vomiting precludes oral therapy, manage as
+severe malaria, see Treatment of severe malaria.
+Page 18 6/ 409

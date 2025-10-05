@@ -1,0 +1,42 @@
+Management of close contacts
+Close contacts include household members living under the same roof and people who were directly exposed (less than
+one metre) to nasopharyngeal secretions of the patient on a regular basis (e.g. family or close friends, children in the
+same class, medical personnel) during the 5 days or nights prior to onset of symptoms of the case [4] .
+Collect nasal and pharyngeal swabs for culture before starting antibiotic prophylaxis; temperature and throat
+examination daily (10 days); exclusion from school or work until 48 hours after starting antibiotic prophylaxis. If
+symptoms of respiratory infection appear: treat immediately as a case of diphtheria.
+Antibiotic prophylaxis:
+benzathine benzylpenicillin IM
+Children under 30 kg: 600 000 IU single dose
+Children 30 kg and over and adults: 1.2 MIU single dose
+Benzathine benzylpenicillin should never be administered by IV route.
+or azithromycin PO or erythromycin PO as above for 7 days.
+Check vaccination status:
+if less than 3 injections received: complete vaccination schedule (see Prevention below);
+if 3 injections received, with the last injection over one year ago: administer a booster dose immediately;
+if 3 injections received, with the last injection less than one year ago: a booster dose is not immediately
+necessary.
+Outbreak surveillance measures
+A suspected case of diphtheria is defined as a person with:
+pharyngitis, rhinopharyngitis, tonsillitis and/or laryngitis
+AND
+an adherent pseudo-membrane of the pharynx, nose, tonsils and/or larynx [1] .
+Isolate and treat suspect cases without delay. Collect swab samples before starting antibiotic treatment. Submit
+case notification to the public health authorities within 24 hours [1] .
+Prevention
+Routine vaccination (EPI), for information: 3 doses of conjugate vaccine containing the higher potency (D)
+formulation of diphtheria toxoid as soon as possible as of 6 weeks of age and at 4 week intervals; D booster
+between 12 and 23 months, then between 4 and 7 years; booster with a vaccine containing a reduced dose (d) of
+diphtheria toxoid between 9 and 15 years [5] .
+Catch-up vaccination (individuals who have not received routine vaccination), for information:
+children 1 to 6 years: 3 doses of conjugate vaccine containing the higher potency (D) formulation of diphtheria
+toxoid at least 4 weeks apart;
+children 7 years and over and adults (including medical staff): 3 doses of conjugate vaccine containing a reduced
+dose (d) of diphtheria toxoid. Administer with a minimum interval of 4 weeks between first and second dose and
+an interval of at least 6 months between second and third dose (in the event of an outbreak this interval may be
+reduced to 4 weeks to achieve protection quicker).
+Administer 2 subsequent booster doses containing d at least 4 weeks apart [5] .
+Footnotes
+(a) This guide focuses on respiratory diphtheria and signs due to the toxin. It should be noted that cutaneous diphtheria is still
+a significant reservoir of C. diphtheriae.
+Page 73 / 409

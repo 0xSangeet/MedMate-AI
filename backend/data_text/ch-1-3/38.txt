@@ -1,0 +1,47 @@
+Measure blood glucose level and treat hypoglycaemia (Chapter 1) if necessary.
+Monitor vital signs and signs of dehydration every 15 to 30 minutes.
+Monitor urine output.
+Monitor for signs of fluid overload (see box below).
+If there is no circulatory impairment:
+ReSoMal PO or by NGT: 20 ml/kg over 1 hour
+If the child is alert, continue feeding including breastfeeding.
+Assess after 1 hour:
+If improvement: change to Plan B SAM, but keep the same target weight.
+If rehydration PO/NGT not tolerated (e. g. vomiting):
+Stop ReSoMal. Administer glucose 5%-Ringer lactate (G5%-RL) d IV infusion: 10 ml/kg/hour for 2 hours.
+Assess after 2 hours of IV fluids:
+If improvement and/or not vomiting, stop G5%-RL IV infusion and change to Plan B SAM.
+If no improvement or still vomiting, continue G5%-RL IV infusion: 10 ml/kg/hour for 2 hours.
+If deterioration with circulatory impairment: see below.
+If there is circulatory impairment:
+Administer ceftriaxone IV, one dose of 80 mg/kg. Subsequent antibiotic treatment depends on assessment of
+underlying cause.
+Administer G5%-RL IV infusion: 10 ml/kg/hour for 2 hours. Stop ReSoMal if the child was taking it.
+Assess after 1 hour of IV fluids:
+If improvement and no vomiting: stop IV fluid and change to Plan B SAM, but keep the same target weight.
+If no improvement:
+Continue G5%-RL IV infusion: 10 ml/kg/hour.
+Prepare for blood transfusion.
+Assess after 2 hours of IV fluids:
+If improvement: change to Plan B SAM, but keep the same target weight.
+If no improvement or deterioration:
+Check Hb as baseline and administer blood transfusion using a separate IV line. See Anaemia (Chapter 1)
+for volume to be transfused and patient monitoring during and after transfusion.
+While transfusing, continue G5%-RL IV infusion 10 ml/kg/hour for another 2 hours.
+Signs of fluid overload include:
+RR ≥ 10 breaths/minute compared to initial RR, or
+HR ≥ 20 beats/minute compared to initial HR
+Plus any one of the following:
+New or worsening hypoxia (decrease in SpO by > 5%)
+2
+New onset of rales and/or fine crackles in lung fields
+New galloping heart rhythm
+Increased liver size (must have marked liver border with pen before rehydration)
+New peripheral or eyelid oedema
+Other complications
+For other complications (to be treated as inpatient), see:
+Hypoglycaemia, seizures, Chapter 1.
+Acute pneumonia, Chapter 2.
+Stomatitis, Chapter 3.
+Xerophthalmia (vitamin A deficiency), Chapter 5.
+Page 59 / 409

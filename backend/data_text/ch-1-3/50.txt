@@ -1,0 +1,40 @@
+Diphtheria
+Last updated: October 2022
+Diphtheria is a bacterial infection due to Corynebacterium diphtheriae, spread from person to person through
+inhalation of infected respiratory droplets of symptomatic or asymptomatic individuals, or direct contact with
+contaminated objects or diphtheria skin lesions [1] [2] a .
+After infection, C. diphtheriae has an incubation period of 1 to 5 days (max. 10 days) [1] during which time it multiplies in
+the upper respiratory tract. The bacteria secretes a toxin which causes severe local as well as systemic effects. Death
+can occur from airway obstruction or as a result of systemic complications, including damage to the myocardium and
+nervous system, caused by the toxin.
+Cases can remain infectious up to 8 weeks after initial infection [2] . Antibiotic treatment can reduce infectiousness to 6
+days [3] .
+Vaccination is the key to prevention and control of diphtheria. It protects individuals from severe disease (fewer and
+less severe symptoms) but does not prevent the spread of C. diphtheriae. Clinical disease does not confer protective
+immunity and vaccination is an integral part of case management.
+Clinical features
+During clinical examination respect standard, contact, and droplet precautions (handwashing, gloves, gown, mask,
+etc.). Conduct a careful examination of the throat.
+Signs of respiratory diphtheria a :
+pharyngitis, rhinopharyngitis, tonsillitis or laryngitis with tough, greyish, firmly adherent pseudo-membranes of the
+pharynx, nasopharynx, tonsils, or larynx;
+dysphagia and cervical adenitis, at times progressing to massive swelling of the neck;
+airway obstruction and possible suffocation when the infection extends to the nasal passages, larynx, trachea
+and bronchi;
+fever is generally low-grade [2] .
+Generalised signs due to effects of the toxin:
+cardiac dysfunction (tachycardia, arrhythmias), severe myocarditis with heart failure and possibly cardiogenic
+shock (see Shock, Chapter 1) 3 to 7 days or 2 to 3 weeks after onset of the disease;
+neuropathies in 2 to 8 weeks after the onset of disease leading to nasal voice and difficulty with swallowing
+(paralysis of the soft palate), vision (ocular motor paralysis), breathing (paralysis of respiratory muscles) and
+ambulation (limb paralysis);
+oliguria, anuria and acute renal failure.
+Differential diagnoses: Epiglottitis and Acute pharyngitis, Chapter 2, Stomatitis, Chapter 3.
+Laboratory
+Diagnosis is confirmed by isolation of toxigenic C. diphtheriae by culture (and antibiotic susceptibility test) of swab
+specimens collected from the affected areas: throat (tonsils, pharyngeal mucosa, soft palate, exudate, ulcer, etc.),
+nasopharynx.
+The presence of the toxin is confirmed by PCR testing (detection of diphtheria toxin gene).
+Treatment
+Isolation of patients; standard, droplet, and contact precautions for medical staff.
+Page 71 / 409

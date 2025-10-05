@@ -1,0 +1,28 @@
+Epinephrine is intended exclusively for nebulized administration and should not be given IV or IM in croup.
+Corticosteroids:
+dexamethasone c PO (or IM or IV if the child is vomiting): 0.6 mg/kg (max. 16 mg) single dose (see table
+below)
+or, if not available, prednisolone PO: 1 mg/kg single dose
+Weight 6-8 kg 9-11 kg 12-14 kg 15-17 kg
+Dose in mg 4 mg 6 mg 8 mg 10 mg
+Dose in 2 mg tablet 2 tab 3 tab 4 tab 5 tab
+Dose in ml (4 mg/ml, 1 ml ampoule) 1 ml 1.5 ml 2 ml 2.5 ml
+Suspect bacterial tracheitis in a critically ill appearing child d with croup who does not improve with the above
+treatment.
+If the patient has a complete airway obstruction, intubation if possible or emergency tracheotomy.
+Footnotes
+(a) If children can easily return to hospital in case of deterioration or return of symptoms, administer 0.15 mg/kg of
+dexamethasone. Otherwise, the dose of 0.6 mg/kg should be used.
+(b) Although not licensed for this indication, epinephrine 1:1000 (1 mg/ml) should be used for nebulisation.
+(c) Administer orally if possible in order to avoid causing agitation in the child as this may worsen symptoms.
+(d) Critically ill appearing child: weak grunting or crying, drowsiness, difficult to arouse, does not smile, disconjugate or anxious
+gaze, pallor or cyanosis, general hypotonia.
+References
+1. Pocket book of primary health care for children and adolescents: guidelines for health promotion, disease prevention and
+management from the newborn period to adolescence. Copenhagen: WHO Regional Office for Europe; 2022. Licence: CC
+BY-NCSA 3.0 IGO.
+https://www.who.int/europe/publications/i/item/9789289057622
+2. Bjornson C, Russell K, Vandermeer B, Klassen TP, Johnson DW. Nebulized epinephrine for croup in children. Cochrane Acute
+Respiratory Infections Group, ed. Cochrane Database Syst Rev. Published online October 10, 2013.
+https://doi.org/10.1002/14651858.CD006619.pub3
+Page 77 / 409

@@ -1,0 +1,37 @@
+Severe acute malnutrition
+Last updated: February 2024
+Severe acute malnutrition (SAM) results from insufficient energy (kilocalories), fat, protein and/or other nutrients
+(vitamins and minerals, etc.) to cover individual needs.
+SAM is frequently associated with medical complications due to metabolic disturbances and compromised immunity. It
+is a major cause of morbidity and mortality in children globally.
+The protocols below are focused on the diagnosis and management of SAM in children 6 to 59 months only. For
+further details regarding this age group, and guidance for other age groups, refer to national recommendations and/or
+specialised protocols.
+Clinical assessment
+Characteristic physical signs
+In marasmus: skeletal appearance resulting from significant loss of muscle mass and subcutaneous fat.
+In kwashiorkor:
+Bilateral oedema of the lower limbs sometimes extending to other parts of the body (e.g. arms and hands, face).
+Discoloured, brittle hair; shiny skin which may crack, weep, and become infected.
+Diagnostic and admission criteria
+Diagnostic criteria for SAM are both anthropometric and clinical:
+Mid-upper arm circumference (MUAC) a measures the degree of muscle wasting. MUAC < 115 mm indicates
+SAM and significant mortality risk.
+Weight-for-height z-score (WHZ) indicates the degree of weight loss by comparing the weight of the child with the
+median weight of non-malnourished children of the same height and sex. SAM is defined as WHZ < –3 with
+reference to the WHO Child Growth Standards b .
+The presence of bilateral pitting oedema of the lower limbs (when other causes of oedema have been ruled out)
+indicates SAM, regardless of MUAC and WHZ.
+Admission criteria for SAM treatment programmes vary with context. Refer to national recommendations.
+Medical complications
+Children with any of the following severe medical conditions should receive hospital-based medical management:
+Pitting oedema extending from the lower limbs up to the face;
+Anorexia (observed during appetite test);
+Other severe complications: persistent vomiting, shock, altered mental status, seizures, severe anaemia
+(clinically suspected or confirmed), persistent hypoglycaemia, eye lesions due to vitamin A deficiency, frequent
+or abundant diarrhoea, dysentery, dehydration, severe malaria, pneumonia, meningitis, sepsis, severe cutaneous
+infection, fever of unknown origin, etc.
+In the absence of these conditions, children should be treated as outpatients with regular follow-up.
+Nutritional treatment
+All children with SAM should receive nutritional treatment.
+Page 55 / 409

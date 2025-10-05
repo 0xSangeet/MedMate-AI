@@ -1,0 +1,37 @@
+Acute pharyngitis
+Last updated: November 2020
+Acute inflammation of the tonsils and pharynx. The majority of cases are of viral origin and do not require antibiotic
+treatment. Group A streptococcus (GAS) is the main bacterial cause, and mainly affects children aged 3 to 14 years.
+Acute rheumatic fever (ARF), a serious late complication of GAS pharyngitis, can be prevented with antibiotic
+treatment.
+One of the main objectives of assessing acute pharyngitis is to identify patients requiring antibiotic treatment.
+Clinical features
+Features common to all types of pharyngitis: throat pain, dysphagia (difficulty swallowing), inflammation of the
+tonsils and pharynx, tender anterior cervical lymph nodes, with or without fever.
+Specific features, depending on the cause:
+Common forms:
+Erythematous (red throat) or exudative (red throat and whitish exudate) pharyngitis: this appearance is
+common to both viral and GAS pharyngitis. Centor criteria help assessment and decrease the empirical use of
+antibiotics in settings where rapid testing for GAS is not available. A Centor score of less than 2 rules out GAS
+infection [1] [2] . Nevertheless, in patients with risk factors (immunosuppression, personal or family history of ARF)
+for poststreptococcal complications, or for local or general complications, do not use Centor score and
+prescribe empirical antibiotic treatment.
+Centor criteria
+Criteria Score
+Temperature > 38 °C 1
+Absence of cough 1
+Tender anterior cervical lymph node(s) 1
+Tonsillar swelling or exudate 1
+In patients over 14 years, the probability of GAS pharyngitis is low. Infectious mononucleosis (IM) due to the
+Epstein-Barr virus should be suspected in adolescents and young adults with extreme fatigue, generalized
+adenopathy and often splenomegaly.
+Erythematous or exudative pharyngitis may also be associated with gonococcal or primary HIV infection. In
+these cases, the diagnosis is mainly prompted by the patient's history.
+Pseudomembranous pharyngitis (red tonsils/pharynx covered with an adherent greyish white false membrane):
+see Diphtheria, Chapter 2.
+Vesicular pharyngitis (clusters of tiny blisters or ulcers on the tonsils): always viral (coxsackie virus or primary
+herpetic infection).
+Ulcero-necrotic pharyngitis: hard and painless syphilitic chancre of the tonsil; tonsillar ulcer soft on palpation in
+a patient with poor oral hygiene and malodorous breath (Vincent tonsillitis).
+Other forms of pharyngitis:
+Page 68 / 409

@@ -1,0 +1,46 @@
+If seizures do not stop, continue treatment as for patients with no known epilepsy.
+If seizures stop after 1 or 2 second-line ASM(s), see Postictal management and Maintenance ASM treatment.
+Step 3 - Maintenance ASM treatment
+Some patients may require maintenance treatment after the loading dose.
+In children, maintenance treatment is indicated when:
+a second-line ASM has been used to control seizures, unless a reversible cause of seizure can be quickly
+treated (e.g. hypoglycaemia, electrolyte disturbances),
+3 or more seizures occur within a 24-hour period,
+focal signs and/or impaired consciousness persist beyond expected postictal period,
+there is known or presumed traumatic brain injury (within 24 hours of injury),
+there is known or presumed epilepsy.
+Unless the child has already received a loading dose, start with a loading dose, see Table 3.
+In adults, maintenance treatment is indicated for all patients, unless a reversible cause of seizure can be quickly
+treated (e.g. hypoglycaemia, electrolyte disturbances).
+If seizures do not recur, administer maintenance treatment for 48 to 72 hours and then reassess. Use oral route (or
+nasogastric tube). For maintenance doses to be administered, see Table 3.
+For seizures in the context of head trauma, maintenance treatment should last 7 days.
+In case of epilepsy, start or resume long-term treatment. See Epilepsy, Chapter 12.
+Postictal management
+Note time of end of seizure; keep patient in recovery position; maintain airway.
+Administer oxygen to all patients if available and especially to patients who received ASM(s). Maintain SpO > 94%.
+2
+Monitor vital signs and SpO every 15 minutes until stable, then every hour.
+2
+Closely monitor RR if the patient received BZD, PB or PHT; HR and BP (and ECG if available) if the patient
+received PHT.
+Observe for further seizures.
+As soon as possible, try to identify the underlying cause and treat it, even in patients with known epilepsy (see
+Frequent causes of seizures):
+Take a detailed history and perform a full clinical examination, looking particularly for general status and focal
+signs.
+Depending on assessment, perform the following tests if available:
+capillary blood glucose, especially if not done during the seizure. Check regularly blood glucose if necessary.
+rapid diagnostic test for malaria in endemic areas
+CSF examination (lumbar puncture) and culture
+white blood cell count, serum electrolytes and creatinine, liver enzymes and coagulation tests, blood culture
+Note if patient does not return to baseline status within 30 to 60 minutes of end of seizure.
+Frequent causes of seizures
+Febrile seizures: in young children with fever, usually in a context of a respiratory or gastrointestinal viral infection.
+CNS infections: e.g. any meningitis (for Bacterial meningitis, see Chapter 7); severe malaria, neurocysticercosis,
+trypanosomiasis (see Chapter 6); cerebral toxoplasmosis, cryptococcal meningitis (see HIV infection and AIDS,
+Chapter 8).
+Metabolic abnormalities: e.g. hypoglycaemia (Chapter 1), electrolyte disorders (hyponatremia, hypocalcaemia).
+Intoxications: e.g. psychoactive drugs and alcohol, methanol, medications, neurotoxic pesticides and venoms,
+carbon monoxide.
+Page 26 / 409

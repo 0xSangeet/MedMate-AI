@@ -1,0 +1,29 @@
+Discharge criteria
+In general:
+Children can be discharged from hospital and be treated as outpatients if the following criteria are met:
+clinically well;
+medical complications controlled;
+able to eat RUTF (observed during appetite test);
+reduction or absence of oedema;
+caregiver feels able to provide care as outpatient;
+vaccinations up to date or referral to vaccination service organised.
+Children can be discharged from nutritional treatment if the following criteria are met:
+co-existing medical conditions stable and outpatient treatment organised if necessary (e.g. dressing changes,
+follow-up for chronic diseases);
+vaccinations up to date or referral to vaccination service organised;
+absence of oedema and WHZ > –2 or MUAC > 125 mm for at least 2 weeks.
+Discharge criteria vary with context. Refer to national recommendations.
+Footnotes
+(a) MUAC is measured at the mid-point of the left upper arm. The arm should be relaxed. The measuring tape should be in
+contact with the skin all around the arm, without exerting pressure.
+(b) For WHZ, see WHO simplified field tables in z-scores for girls and for boys:
+https://www.who.int/tools/child-growth-standards/standards/weight-for-length-height
+(c) ReSoMal is a specific oral rehydration solution for malnourished children, containing less sodium and more potassium than
+standard ORS. It should be administered under medical supervision to avoid overdosing and hyponatremia.
+(d) Remove 50 ml of Ringer lactate (RL) from a 500 ml RL bottle or bag, then add 50 ml of 50% glucose to the remaining 450 ml
+of RL to obtain 500 ml of 5% glucose-RL solution.
+References
+1. Jones KDJ, Berkley JA. Severe acute malnutrition and infection. Paediatrics and International Child Health 2014; 34(sup1):
+S1-S29.
+https://www.tandfonline.com/doi/full/10.1179/2046904714Z.000000000218 [Accessed 24 August 2022]
+Page 60 / 409

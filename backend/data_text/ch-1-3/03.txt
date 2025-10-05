@@ -1,0 +1,42 @@
+Check whether a BZD has been administered before arrival at the hospital and the number of doses. If one dose was
+administered, give a second dose. If 2 doses were administered, start Step 2 - Second-line ASM treatment.
+If no pre-hospital dose of BZD was administered:
+If IV or IO access: diazepam (5 mg/ml solution) by slow IV injection (over 3 to 5 minutes). For doses to be
+administered, see Table 1.
+If no IV or IO access: midazolam (5 mg/ml solution) by buccal or intranasal route or midazolam (1 mg/ml solution)
+by IM route or diazepam (5 mg/ml solution) by rectal route. For doses to be administered, see Table 1.
+If seizures do not stop 5 minutes after the first dose of BZD, readminister the same dose.
+If seizures do not stop after the second dose of BZD, start Step 2 - Second-line ASM treatment.
+If seizures recur:
+6 hours or more after seizures stop, restart treatment from Step 1 - First-line ASM treatment as for a new
+seizure,
+Less than 6 hours after seizures stop, continue treatment at the last point, e.g.:
+if seizures recur < 6 hours after a first dose of BZD, readminister the same dose,
+if seizures recur < 6 hours after 2 doses of BZD, start Step 2 - Second-line ASM treatment.
+If seizures stop after 1 or 2 doses of BZD and do not recur, see Postictal management and evaluate the need for
+maintenance ASM treatment.
+Table 1 - Dosage of benzodiazepines
+Age 1 to < 4 4 to < 12 1 to < 3 3 to < 5 5 to < 9 9 to < 12 ≥ 12 years
+months months years years years years adults
+Weight 3 to < 6 6 to < 10 10 to < 15 15 to < 20 20 to < 30 30 to < 40 ≥ 40 kg
+kg kg kg kg kg kg
+midazolam buccal (a) or intranasal route (b) , dose in ml (5 mg/ml solution)
+0.25 ml 0.4 ml 0.6 ml 1 ml 1.2 ml 2 ml 2 ml
+midazolam IM route, dose in ml (1 mg/ml solution)
+0.6 ml 1.2 ml 2 ml 3 ml 4 ml 6 ml 10 ml
+diazepam rectal route (c) , dose in ml (5 mg/ml solution)
+0.4 ml 0.7 ml 1.2 ml 1.5 ml 2 ml 2 ml 2 to 4 ml (d)
+diazepam slow IV route, dose in ml (5 mg/ml solution)
+0.25 ml 0.4 ml 0.6 ml 1 ml 1.2 ml 2 ml 2 ml (d)
+(a) Midazolam buccal route: lay the patient on their side. Withdraw the required dose using a 1 ml or 2 ml syringe. Remove the
+needle. Insert the tip of the syringe into the space between the gum and cheek. Administer the dose by slowly pushing the
+syringe plunger.
+(b) Midazolam intranasal route: lay the patient on their back or side. Withdraw the required dose using a 1 ml or 2 ml syringe
+(add an additional 0.1 ml to the calculated dose to account for the remaining liquid in the atomising device). Remove the
+needle. Attach the intranasal atomisation device to the syringe. Briskly push the syringe plunger to spray the dose into the
+nostril. The dose can be split in both nostrils to reduce irritation.
+(c) Diazepam rectal route: lay the patient on their side. For volumes up to 1 ml, use a 1 ml syringe. Withdraw the required dose.
+Remove the needle. Insert the syringe into the rectum for a length of 1 to 3 cm (depending on age) to administer the dose.
+For volumes greater than 1 ml, use a 2 ml syringe and attach to the tip of the syringe a nasogastric tube n°8 cut to a length
+of 2 to 3 cm to administer the dose. After administration, hold the buttocks together for at least one minute.
+Page 24 / 409

@@ -1,0 +1,39 @@
+American trypanosomiasis (Chagas disease)
+Chagas disease is a zoonosis caused by the protozoa Trypanosoma cruzi. It is transmitted to humans by contact of
+triatomine bug faeces with a break in the skin (often caused by a bite from the triatomine bug), or with mucous
+membranes. Transmission by contaminated blood transfusion, accidental exposure to blood, mother-to-child (during
+pregnancy or childbirth) or consumption of contaminated food and water is also possible.
+Chagas disease has two phases: an acute phase, which lasts approximately 4 to 6 weeks, and a chronic phase, which
+is lifelong if left untreated.
+The disease is primarily found on the American continent a . It is significantly underdiagnosed. [1]
+Clinical features
+Acute phase
+Most cases are asymptomatic.
+If transmitted through a break in the skin: a red swelling on the skin (chagoma) or unilateral painless purplish
+periorbital oedema (Romaña's sign) with local lymphadenopathy, headache and fever.
+Rarely: multiple lymphadenopathies, hepatosplenomegaly, myocarditis (chest pain, dyspnoea), meningoencephalitis
+(seizures, paralysis).
+Chronic phase
+Many cases remain asymptomatic (indeterminate phase).
+Up to 30% of cases develop organ damage: [2]
+cardiac lesions (conduction disorders, dilated cardiomyopathy): arrhythmia, dyspnoea, chest pain, heart failure;
+gastrointestinal lesions (dilation of the oesophagus or colon i.e. megaoesophagus, megacolon): difficulty
+swallowing, severe constipation.
+Individuals with immunosuppression have a higher risk of developing organ damage than the general population.
+Diagnosis
+Laboratory [1]
+Acute phase:
+Identification of Trypanosoma cruzi by direct microscopy of fresh blood or blood concentrated by
+microhematocrit method.
+In case of strong clinical suspicion despite no definitive diagnosis from direct microscopy, perform serologic
+tests after a delay of approximately 1 month (see "Chronic phase").
+Chronic phase:
+Identification of anti-Trypanosoma cruzi antibodies by serologic tests, e.g. enzyme-linked immunosorbent assay
+(ELISA), hemagglutination inhibition assay (HAI), indirect immunofluorescence (IIF) or rapid diagnostic test (RDT).
+For a definitive diagnosis, two different serological tests should be performed simultaneously; in case of
+conflicting results, a third test is recommended. b
+Other investigations
+ECG may demonstrate conduction disorders.
+Chest or abdominal x-ray may demonstrate cardiomegaly, megaoesophagus or megacolon.
+Treatment
+Page 19 1/ 409

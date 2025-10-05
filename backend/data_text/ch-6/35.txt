@@ -1,0 +1,38 @@
+Loiasis
+The distribution of loiasis is linked to that of its vector (Chrysops) in forests or savannah with gallery forests in West or
+Central Africa (limits West: Benin; East: Uganda; North: Sudan and South: Angola).
+Clinical features
+The subconjunctival migration of an adult worm is pathognomonic of Loa loa infection.
+Localised subcutaneous swellings, allergic in origin, transient (several hours or days), painless, non-pitting, appearing
+anywhere on the body, frequently the upper extremities and face, often associated with localised or generalised
+pruritus (« Calabar swellings »).
+Onset of pruritus, in the absence of other signs.
+Subcutaneous migration of an adult worm: pruritic, palpable red cord-like linear lesion, sinuous, advancing (1
+cm/hour), disappearing rapidly with no trace a . Such migration generally arises following treatment with
+diethylcarbamazine, rarely spontaneously.
+Laboratory
+Detection of microfilariae in the peripheral blood (thick film, stained with Giemsa). Blood specimens should be
+collected between 10 am and 5 pm. Quantify microfilaraemia even if the diagnosis is certain, since treatment is
+determined by the intensity of the parasite load.
+If the thick film is positive, look for onchocerciasis in regions where onchocerciasis is coendemic (mainly in Central
+Africa).
+Treatment
+Antiparasitic treatment
+Diethylcarbamazine (DEC) is the only macrofilaricide available but is contra-indicated in:
+Patients with microfilaraemia > 2000 mf/ml (risk of severe encephalopathy, with poor prognosis).
+Patients co-infected with O. volvulus (risk of severe eye lesions).
+Pregnant women, infants, and patients in poor general condition.
+Ivermectin (and possibly albendazole) is used to reduce microfilaraemia before administration of DEC; however,
+ivermectin administration may trigger encephalopathy in patients with very high Loa loa microfilaraemia (> 30 000
+mf/ml).
+Doxycycline is not indicated since Loa loa does not harbour Wolbachia.
+Management:
+1) L. loa microfilaraemia is < 1,000-2,000 mf/ml
+A 28-day treatment of DEC may be started using a small dose: 6 mg on D1, i.e. 1/8 of a 50 mg tablet 2 times
+daily.
+Double the dose every day up to 200 mg 2 times daily in adults (1.5 mg/kg 2 times daily in children).
+If microfilaraemia or symptoms persist, a second treatment is given 4 weeks later.
+If DEC is contra-indicated due to possible or confirmed co-infection with O. volvulus, ivermectin (150
+microgams/kg single dose) treats onchocerciasis, and reduces pruritus and frequency of Calabar swellings.
+The treatment may be repeated every month or every 3 months.
+Page 21 4/ 409
