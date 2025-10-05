@@ -35,7 +35,7 @@ def get_response(symptoms):
     }
 
     client = Cerebras(
-        api_key="csk-hfkh8thyvx8nm5h53fyd6rntwjy4k63dk25ppf28kx346ff8",
+        api_key="",
     )
 
     context = format_context_for_llm(symptoms)
